@@ -1,0 +1,81 @@
+Admission Number,Name,Class,Phone Number,CGPA,CGPA_Category,CIVIL,CSE,ECE,EEE,IT,MECH
+ADM25001,Rahul Sharma,2nd Year,9876543210,8.5,Excellent,0,1,0,0,0,0
+ADM25002,Priya Verma,1st Year,9076448062,7.9,Average,0,0,1,0,0,0
+ADM25003,Arjun Nair,2nd Year,9812345678,9.2,Excellent,0,1,0,0,0,0
+ADM25004,Sneha Iyer,3rd Year,9865123478,7.1,Average,0,0,0,0,1,0
+ADM25005,Vikram Singh,1st Year,9900112233,6.8,Average,0,0,0,0,0,1
+ADM25006,Ananya Reddy,2nd Year,9711223344,8.7,Excellent,0,0,0,1,0,0
+ADM25007,Karan Malhotra,3rd Year,9822334455,8.0,Average,0,1,0,0,0,0
+ADM25008,Meera Pillai,1st Year,9059777751,7.4,Average,1,0,0,0,0,0
+ADM25009,Rohit Bansal,2nd Year,9876543210,5.2,Poor,0,1,0,0,0,0
+ADM25010,Fatima Sheikh,2nd Year,9001234567,8.9,Excellent,0,0,1,0,0,0
+ADM25011,Aditya Rao,1st Year,9345678912,10.0,Excellent,0,0,0,0,1,0
+ADM25012,Ishita Bose,3rd Year,9786756454,7.7,Average,0,0,0,1,0,0
+ADM25014,Nikhil Jain,2nd Year,9845319764,6.5,Average,0,0,0,0,0,1
+ADM25015,Divya Menon,1st Year,9955667788,9.4,Excellent,0,1,0,0,0,0
+ADM25016,Suresh Kumar,3rd Year,9845045045,7.0,Average,1,0,0,0,0,0
+ADM25017,Lakshmi Narayan,2nd Year,9887766554,0.0,Poor,0,0,1,0,0,0
+ADM25018,Tanvi Deshpande,1st Year,9611223344,8.2,Excellent,0,0,0,0,1,0
+ADM25019,Manish Gupta,2nd Year,9701234567,6.9,Average,0,1,0,0,0,0
+ADM25020,Kavya Krishnan,3rd Year,9822778899,9.6,Excellent,0,1,0,0,0,0
+ADM25021,Sameer Khan,1st Year,8801122334,5.8,Poor,0,0,0,0,0,1
+ADM25022,Ritu Chauhan,2nd Year,9910012030,7.3,Average,0,0,0,1,0,0
+ADM25023,Gaurav Pandey,3rd Year,9848484848,8.0,Average,0,0,0,0,1,0
+ADM25024,Pooja Shetty,2nd Year,9810098100,8.8,Excellent,0,0,1,0,0,0
+ADM25025,Aakash Verma,1st Year,9999911111,6.2,Average,0,0,0,0,0,1
+ADM25026,Shreya Dutta,2nd Year,9765432109,9.1,Excellent,0,1,0,0,0,0
+ADM25027,Vivek Anand,3rd Year,9871239871,7.6,Average,1,0,0,0,0,0
+ADM25028,Neha Kapoor,2nd Year,9854420580,7.8,Average,0,0,0,0,1,0
+ADM25029,Ravi Teja,1st Year,9494949494,6.7,Average,0,0,0,1,0,0
+ADM25030,Simran Kaur,2nd Year,9801980198,9.8,Excellent,0,1,0,0,0,0
+ADM25031,Deepak Joshi,3rd Year,9871209871,5.5,Poor,0,0,0,0,0,1
+ADM25032,Ayesha Siddiqui,1st Year,9990009990,8.4,Excellent,0,0,1,0,0,0
+ADM25033,Ritesh Agarwal,2nd Year,9700001111,10.0,Excellent,0,0,0,0,1,0
+ADM25034,Madhuri Patil,3rd Year,9890989098,8.1,Excellent,0,1,0,0,0,0
+ADM25035,Harsh Vardhan,1st Year,9922110099,6.0,Poor,1,0,0,0,0,0
+ADM25037,Zoya Ali,2nd Year,9881122334,9.3,Excellent,0,0,0,1,0,0
+ADM25038,Pranav Kulkarni,3rd Year,9856856856,7.2,Average,0,0,0,0,1,0
+ADM25039,Varsha Nair,1st Year,9600220011,8.6,Excellent,0,1,0,0,0,0
+ADM25040,Siddharth Menon,2nd Year,9944009944,10.0,Excellent,0,0,0,0,0,1
+ADM25041,Chandni Roy,2nd Year,9711771177,7.5,Average,0,0,1,0,0,0
+ADM25042,Yash Thakur,3rd Year,9888776655,6.3,Average,0,1,0,0,0,0
+ADM25043,Bhavana Reddy,1st Year,9009909009,9.0,Excellent,0,0,0,1,0,0
+ADM25044,Imran Qureshi,2nd Year,9333331133,4.9,Poor,0,0,0,0,1,0
+ADM25045,Nandini Sharma,3rd Year,9845598455,7.4,Average,1,0,0,0,0,0
+ADM25046,Omkar Desai,1st Year,9696969696,8.3,Excellent,0,0,0,0,0,1
+ADM25047,Tanya Mishra,2nd Year,9807654321,9.5,Excellent,0,1,0,0,0,0
+ADM25048,Abhinav Sinha,3rd Year,9994569994,6.6,Average,0,0,0,1,0,0
+ADM25049,Kritika Saini,2nd Year,9761122334,8.9,Excellent,0,0,0,0,1,0
+ADM25050,Faisal Ansari,1st Year,9812098120,7.1,Average,0,0,1,0,0,0
+ADM25051,Preeti Rani,2nd Year,9966009966,9.7,Excellent,1,0,0,0,0,0
+ADM25052,Mayank Bhalla,3rd Year,9955449944,4.2,Poor,0,1,0,0,0,0
+ADM25053,Sonal Gandhi,1st Year,9841269841,8.0,Average,0,0,0,0,1,0
+ADM25054,Jatin Sethi,2nd Year,9709970990,6.4,Average,0,0,0,0,0,1
+ADM25055,Reema Farooqui,3rd Year,9999999999,7.9,Average,0,0,0,1,0,0
+ADM25057,Rohan,2nd Year,9876543210,8.0,Average,0,0,1,0,0,0
+ADM25062,Zara,2nd Year,9882617730,9.9,Excellent,0,1,0,0,0,0
+ADM25063,Kabir,3rd Year,9988776655,8.89,Excellent,0,0,0,1,0,0
+ADM25065,Aarav,1st Year,9948677134,4.5,Poor,0,0,0,0,1,0
+ADM25066,Nisha,2nd Year,9998887776,8.1,Excellent,0,1,0,0,0,0
+ADM25068,Diya,1st Year,9876543210,7.9,Average,1,0,0,0,0,0
+ADM25072,Kunal,2nd Year,9876543210,10.0,Excellent,0,1,0,0,0,0
+ADM25073,Riya,1st Year,9405176973,8.0,Average,0,0,0,0,1,0
+ADM25075,Sam,2nd Year,9876543210,8.0,Average,0,0,0,1,0,0
+ADM25076,Aniket Das,1st Year,9876500000,8.2,Excellent,0,1,0,0,0,0
+ADM25077,Megha Sharma,2nd Year,9811122233,10.0,Excellent,0,0,1,0,0,0
+ADM25079,Pooja Hegde,3rd Year,9776655443,7.0,Average,0,0,0,0,1,0
+ADM25080,Saurabh,1st Year,9943930471,0.0,Poor,0,0,0,0,0,1
+ADM25081,Anushka Roy,2nd Year,9800098000,7.5,Average,0,1,0,0,0,0
+ADM25082,Dev Patel,1st Year,9845045045,8.0,Average,1,0,0,0,0,0
+ADM25085,Kavita Sen,3rd Year,9416432569,5.0,Poor,0,0,0,0,1,0
+ADM25086,Arun Kumar,2nd Year,9812398123,8.0,Average,0,1,0,0,0,0
+ADM25087,Neha Verma,1st Year,9900990099,8.8,Excellent,0,0,1,0,0,0
+ADM25088,Vishal Garg,2nd Year,9876543210,8.5,Excellent,0,1,0,0,0,0
+ADM25089,Shruti Rao,3rd Year,9822114477,9.3,Excellent,0,1,0,0,0,0
+ADM25091,Gautam Gambhir,1st Year,9418670378,6.2,Average,0,0,0,0,0,1
+ADM25092,Swati Jain,2nd Year,9488382266,9.0,Excellent,0,0,0,1,0,0
+ADM25093,Rohan Mehta,3rd Year,9871122334,7.4,Average,1,0,0,0,0,0
+ADM25094,Aditi Bose,1st Year,9665544332,10.0,Excellent,0,0,0,0,1,0
+ADM25099,Tanvi,1st Year,9611223344,8.2,Excellent,0,0,0,0,1,0
+ADM25100,Alok Nath,2nd Year,9810098100,8.0,Average,0,0,0,1,0,0
+ADM25101,Zeenat Aman,3rd Year,9712345678,9.95,Excellent,0,1,0,0,0,0
