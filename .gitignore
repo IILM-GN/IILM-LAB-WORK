@@ -1,0 +1,27 @@
+# Compiled C/C++ Binaries and Objects
+*.exe
+*.out
+*.o
+*.obj
+*.pdb
+*.ilk
+
+# Python Cache & Environments
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+
+# Editor & IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS Generated
+Thumbs.db
+Desktop.ini
+.DS_Store
