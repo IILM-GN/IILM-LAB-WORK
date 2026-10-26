@@ -2,10 +2,10 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df = pd.read_csv("plot.csv")
+df = pd.read_csv("plots.csv")
 
 fig, axes = plt.subplots(2, 3, figsize=(15, 9))
-fig.suptitle("Charts from plot.csv", fontsize=16)
+fig.suptitle("Charts from plots.csv", fontsize=16)
 
 monthly_sales = df.groupby("month", sort=False)["sales"].sum()
 axes[0, 0].plot(monthly_sales.index, monthly_sales.values, marker="o", color="royalblue")
