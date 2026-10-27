@@ -6,7 +6,7 @@ id,month,category,sales,study_hours,test_score
 5,Feb,A,110,5.2,76
 6,Feb,B,74,2.7,61
 7,Feb,C,132,6.1,82
-8,Feb,D,58,1.2,49
+8,Feb,D,58,1.2,49   
 9,Mar,A,101,4.6,73
 10,Mar,B,143,7.3,86
 11,Mar,C,82,3.1,64
